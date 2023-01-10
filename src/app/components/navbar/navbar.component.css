@@ -1,0 +1,22 @@
+
+.navbar{
+  display: flex;
+  background-color: transparent;
+}
+
+.title {
+  margin-left: 10px;
+}
+
+.title-text{}
+
+.items {
+  display: flex;
+  margin-left: 30px;
+}
+
+.url-navbar-items {
+  text-decoration: none;
+  margin-right: 10px;
+  margin-top: 19px;
+}
